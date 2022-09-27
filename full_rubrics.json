@@ -1,0 +1,132 @@
+{
+    "russia": [
+        "politic",
+        "accident",
+        "society",
+        "moscow",
+        "regions"
+    ],
+    "ussr": [
+        "belarus",
+        "baltics",
+        "ukraine",
+        "moldova",
+        "middle_asia",
+        "kavkaz"
+    ],
+    "forces": [
+        "investigations",
+        "violation",
+        "police",
+        "crimerussia"
+    ],
+    "realty": [
+        "home",
+        "city",
+        "climate",
+        "transport"
+    ],
+    "economics": [
+        "economy",
+        "markets",
+        "investments",
+        "business_climate",
+        "finance",
+        "companies",
+        "social",
+        "crypto"
+    ],
+    "media": [
+        "tv",
+        "factchecking",
+        "soc_network",
+        "hackers",
+        "internet",
+        "press"
+    ],
+    "world": [
+        "politic",
+        "accident",
+        "society",
+        "conflict"
+    ],
+    "travel": [
+        "world",
+        "rus",
+        "opinion",
+        "accident",
+        "events"
+    ],
+    "sport": [
+        "winter",
+        "football",
+        "other",
+        "hockey",
+        "tennis",
+        "boxing",
+        "athletics",
+        "russia"
+    ],
+    "style": [
+        "exterior",
+        "look",
+        "personality",
+        "phenomenon"
+    ],
+    "life": [
+        "accident",
+        "people",
+        "persons",
+        "anomalies",
+        "lucky",
+        "animals",
+        "food"
+    ],
+    "culture": [
+        "kino",
+        "music",
+        "art",
+        "books",
+        "series",
+        "theatre",
+        "architecture"
+    ],
+    "mycountry": [
+        "country_travel",
+        "culture",
+        "progress",
+        "history",
+        "country_nature",
+        "country_traditions",
+        "country_peoples",
+        "people"
+    ],
+    "nornickel": [
+        "people",
+        "eco",
+        "phenomenon",
+        "progress",
+        "events",
+        "history",
+        "tourism"
+    ],
+    "wellness": [
+        "selfcare",
+        "dietology",
+        "mental_health",
+        "interior_ideas",
+        "relationships"
+    ],
+    "science": [
+        "science",
+        "games",
+        "mil",
+        "natural",
+        "future",
+        "gadget",
+        "cosmos",
+        "digital",
+        "soft",
+        "history"
+    ]
+}

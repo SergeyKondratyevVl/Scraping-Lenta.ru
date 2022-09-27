@@ -1,0 +1,2394 @@
+[
+    {
+        "author_topics": [
+            {
+                "addition": null,
+                "author_id": 1530,
+                "color": "#000000",
+                "position": 0
+            }
+        ],
+        "body": [],
+        "box_gallery": null,
+        "box_video": null,
+        "chained_topics": {
+            "box_next": null,
+            "box_prev": null
+        },
+        "current_date": 1664185150,
+        "external_url": null,
+        "footer_boxes": [],
+        "headline": {
+            "authors": [
+                {
+                    "id": 1530,
+                    "job": "Редактор отдела «Силовые структуры»",
+                    "name": "Владимир Седов",
+                    "slug": "vladimirsedov"
+                }
+            ],
+            "info": {
+                "announce": "Неизвестный устроил стрельбу в школе №88 Ижевска, он пока не задержан, его продолжают искать. Об этом в понедельник, 26 сентября, со ссылкой на МВД сообщает RT. По словам источника «Ленты.ру» в правоохранительных органах, в результате стрельбы пострадали три человека.",
+                "comments_enabled": null,
+                "id": "/news/2022/09/26/sdfs/",
+                "modified_at": 1664178660,
+                "rightcol": "",
+                "title": "Неизвестный устроил стрельбу в школе Ижевска"
+            },
+            "links": {
+                "mobile": "https://lenta.ru/news/2022/09/26/sdfs/",
+                "public": "https://lenta.ru/news/2022/09/26/sdfs/"
+            },
+            "rubrics": {
+                "main_rubric": {
+                    "path": "/rubrics/forces",
+                    "slug": "forces",
+                    "title": "Силовые структуры"
+                },
+                "subrubrics": [
+                    {
+                        "slug": "violation",
+                        "title": "Криминал"
+                    }
+                ]
+            },
+            "tags": [
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "CRIME",
+                    "slug": "crime"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "DEATH",
+                    "slug": "death"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "MILITARY",
+                    "slug": "military"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Positive text",
+                    "slug": "ad-good"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "ROAD-ACCIDENT",
+                    "slug": "roadaccident"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "БЦ",
+                    "slug": "bc"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ИЖЕВСК",
+                    "slug": "izhevsk"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Треш",
+                    "slug": "trash"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "УДМУРТИЯ",
+                    "slug": "udmurtiya"
+                }
+            ],
+            "title_image": {
+                "variants": {
+                    "detail": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735473/detail_8c1e2ecae7aacfee5b266b8c566f4583.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "pic": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735479/pic_8def589dafaf2f14417e8087b2524e22.jpg",
+                        "height": 280,
+                        "width": 420
+                    },
+                    "pwa_list_rect_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735686/pwa_list_rect_1024_afbba14587c4d10e226e8c4fe69be0f7.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735694/pwa_list_rect_1024_webp_8c446ef915582e3d740c765f760cedd8.webp",
+                        "height": 683,
+                        "width": 1024
+                    },
+                    "pwa_list_rect_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735672/pwa_list_rect_1280_983d646b0e749a7823247e25735f31d3.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735680/pwa_list_rect_1280_webp_56e30d4b9de21f680aefe2b56e09d00b.webp",
+                        "height": 854,
+                        "width": 1280
+                    },
+                    "pwa_list_rect_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735715/pwa_list_rect_320_26a6f636b14656b70aa9188bb903f1f8.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735723/pwa_list_rect_320_webp_4e2d7774ccf3f25a40626d7bbc6804a1.webp",
+                        "height": 213,
+                        "width": 320
+                    },
+                    "pwa_list_rect_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735701/pwa_list_rect_768_db02d0fec6740cde88a961cb2a293d86.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735708/pwa_list_rect_768_webp_8da8c482ea6d032470a24ca9f12d4995.webp",
+                        "height": 512,
+                        "width": 768
+                    },
+                    "pwa_list_sq_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735590/pwa_list_sq_1024_3324136e983ed89ae79f1054daf51680.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735597/pwa_list_sq_1024_webp_831dce09d568cc0a1b9d42e5e3e13199.webp",
+                        "height": 1024,
+                        "width": 1024
+                    },
+                    "pwa_list_sq_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735577/pwa_list_sq_1280_328a18e959a2645044282d16c3cf9006.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735584/pwa_list_sq_1280_webp_8914b52b94e46ab2e3619539ad726a62.webp",
+                        "height": 1280,
+                        "width": 1280
+                    },
+                    "pwa_list_sq_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735618/pwa_list_sq_320_507d0b450a4a9e0a2aea3d77069d499c.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735626/pwa_list_sq_320_webp_d7dba6455e3cbe649ea64092f18ab6a1.webp",
+                        "height": 320,
+                        "width": 320
+                    },
+                    "pwa_list_sq_60": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735633/pwa_list_sq_60_b07d5eea7f22372b9c102a8f8e415e36.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735640/pwa_list_sq_60_webp_a98839b0749643d6f063648a5f5c957b.webp",
+                        "height": 60,
+                        "width": 60
+                    },
+                    "pwa_list_sq_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735605/pwa_list_sq_768_b6588939ad7892154f8341b0049264cd.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735612/pwa_list_sq_768_webp_4e07ca3cd58d4a3f8b782ba883a89565.webp",
+                        "height": 768,
+                        "width": 768
+                    },
+                    "tabloid": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735495/tabloid_c81e55004c3b0a2f92060515dc76d53b.jpg",
+                        "height": 64,
+                        "width": 96
+                    },
+                    "wide_16_9": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735802/wide_16_9_98ede7908c4745d053abc5bd5b40876e.jpg",
+                        "height": 720,
+                        "width": 1280
+                    },
+                    "wide_4_3": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926104735796/wide_4_3_f5f23221a6323d835a40d2b16c21dcb6.jpg",
+                        "height": 960,
+                        "width": 1280
+                    }
+                },
+                "alt": null,
+                "caption": null,
+                "credits": "Фото: <a href=\"https://t.me/s/shot_shot\" target=\"_blank\">Telеgram-канал Shot</a>"
+            },
+            "type": "news"
+        },
+        "is_advertisable": false,
+        "is_death": true,
+        "is_premium": false,
+        "is_promo": null,
+        "is_super_news": false,
+        "is_tragedy": false,
+        "is_trash": true,
+        "part_slug": null,
+        "related_topics": [],
+        "sharings_disabled": false,
+        "switch_off_advertise": null,
+        "title_image_allowed_in_topic": true,
+        "title_yandex": null,
+        "type": "news",
+        "voiceover": "/audio/2022/09/26/11/20220926110315666/original_mp3_75b7f2cbf57d168e871b0ee5a2ca32d4.mp3"
+    },
+    {
+        "author_topics": [
+            {
+                "addition": null,
+                "author_id": 1724,
+                "color": "#000000",
+                "position": 1
+            }
+        ],
+        "body": [],
+        "box_gallery": null,
+        "box_video": null,
+        "chained_topics": {
+            "box_next": null,
+            "box_prev": null
+        },
+        "current_date": 1664185150,
+        "external_url": null,
+        "footer_boxes": [],
+        "headline": {
+            "authors": [
+                {
+                    "id": 1724,
+                    "job": "",
+                    "name": "Инга Разумовская",
+                    "slug": "razumovskaya"
+                }
+            ],
+            "info": {
+                "announce": "Во всех московских поликлиниках работает телемедицинский сервис в формате «врач-пациент», который с февраля 2022 года помог заменить 600 тысяч лишних визитов в медучреждения для 380 тысяч столичных пациентов. Новый сервис был создан во время вспышки «омикрона», и сейчас доступен горожанам с симптомами ОРВИ.",
+                "comments_enabled": null,
+                "id": "/news/2022/09/26/telemed/",
+                "modified_at": 1664184889,
+                "rightcol": "",
+                "title": "Новый онлайн-сервис помог 380 тысячам пациентов в Москве"
+            },
+            "links": {
+                "mobile": "https://lenta.ru/news/2022/09/26/telemed/",
+                "public": "https://lenta.ru/news/2022/09/26/telemed/"
+            },
+            "rubrics": {
+                "main_rubric": {
+                    "path": "/rubrics/russia",
+                    "slug": "russia",
+                    "title": "Россия"
+                },
+                "subrubrics": [
+                    {
+                        "slug": "society",
+                        "title": "Общество"
+                    },
+                    {
+                        "slug": "moscow",
+                        "title": "Москва"
+                    }
+                ]
+            },
+            "tags": [
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "COVID",
+                    "slug": "covid"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "EmiasSpec",
+                    "slug": "emiasspec"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "GOOD",
+                    "slug": "good_news"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "HEALTH",
+                    "slug": "health"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Positive text",
+                    "slug": "ad-good"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Анастасия Ракова",
+                    "slug": "rakova-anastasiya"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "БЦ",
+                    "slug": "bc"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "МОСКВА",
+                    "slug": "moskva"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Правительство Москвы",
+                    "slug": "pravitelstvo-moskvy"
+                }
+            ],
+            "title_image": {
+                "variants": {
+                    "detail": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530643/detail_956492b00e52b77b9566c33a4efd370e.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "pic": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530650/pic_8f0abc1d902a5576e572407dd988a1eb.jpg",
+                        "height": 280,
+                        "width": 420
+                    },
+                    "pwa_list_rect_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530864/pwa_list_rect_1024_47d2f0da8e490b662c3aef0adb33f7d3.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530870/pwa_list_rect_1024_webp_26124c4166504b78575a94eeeb851777.webp",
+                        "height": 683,
+                        "width": 1024
+                    },
+                    "pwa_list_rect_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530853/pwa_list_rect_1280_02c03167bdcbefbc145898f5a54ed4e3.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530859/pwa_list_rect_1280_webp_4990b7bb8b1e414a9b052ca679210283.webp",
+                        "height": 854,
+                        "width": 1280
+                    },
+                    "pwa_list_rect_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530886/pwa_list_rect_320_31aaed7c803b178cb41e1526fb6559e8.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530892/pwa_list_rect_320_webp_bca88a0d41d1315b975555f0b16ee996.webp",
+                        "height": 213,
+                        "width": 320
+                    },
+                    "pwa_list_rect_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530876/pwa_list_rect_768_e7955a75351726726af2ed1e60f62973.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530881/pwa_list_rect_768_webp_19b7d839a37ced05d214f433b791ec40.webp",
+                        "height": 512,
+                        "width": 768
+                    },
+                    "pwa_list_sq_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530765/pwa_list_sq_1024_2e7a4b6ae95dda7bf9167fc496fb02d4.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530772/pwa_list_sq_1024_webp_b521c326be790ff0270264709366b53b.webp",
+                        "height": 1024,
+                        "width": 1024
+                    },
+                    "pwa_list_sq_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530748/pwa_list_sq_1280_19102f6e221ed9a427b914d9b6356e74.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530755/pwa_list_sq_1280_webp_5f8c13423695a373ee8e6d2ee608ca01.webp",
+                        "height": 1280,
+                        "width": 1280
+                    },
+                    "pwa_list_sq_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530793/pwa_list_sq_320_fd21968127fe78b830d1af517dbe931a.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530798/pwa_list_sq_320_webp_3c52e9cf2272e62b94a4b9a0a2908e93.webp",
+                        "height": 320,
+                        "width": 320
+                    },
+                    "pwa_list_sq_60": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530805/pwa_list_sq_60_219927c04809bcc6bd514ec77b8a425f.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530812/pwa_list_sq_60_webp_b99a747b2a6fc673aa725a5685c6f064.webp",
+                        "height": 60,
+                        "width": 60
+                    },
+                    "pwa_list_sq_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530779/pwa_list_sq_768_f42c062938f40472f2e4a93fa9a3bd2f.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530788/pwa_list_sq_768_webp_699f528d5bb143504255cf822136f10a.webp",
+                        "height": 768,
+                        "width": 768
+                    },
+                    "tabloid": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530671/tabloid_8e26837be07a0d82242cedb7289d61df.jpg",
+                        "height": 64,
+                        "width": 96
+                    },
+                    "wide_16_9": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530963/wide_16_9_5b40554a39dc95a6d9dccf526929efed.jpg",
+                        "height": 720,
+                        "width": 1280
+                    },
+                    "wide_4_3": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926111530958/wide_4_3_ff79979428ee3da6e603441ccab6b659.jpg",
+                        "height": 960,
+                        "width": 1280
+                    }
+                },
+                "alt": null,
+                "caption": null,
+                "credits": "Фото: пресс-служба Комплекса социального развития Москвы"
+            },
+            "type": "news"
+        },
+        "is_advertisable": false,
+        "is_death": false,
+        "is_premium": false,
+        "is_promo": null,
+        "is_super_news": false,
+        "is_tragedy": false,
+        "is_trash": false,
+        "part_slug": null,
+        "related_topics": [],
+        "sharings_disabled": false,
+        "switch_off_advertise": null,
+        "title_image_allowed_in_topic": true,
+        "title_yandex": null,
+        "type": "news",
+        "voiceover": "/audio/2022/09/26/12/20220926123538341/original_mp3_67a3202265fab3980aee24a23e4a4bb3.mp3"
+    },
+    {
+        "author_topics": [
+            {
+                "addition": null,
+                "author_id": 1900,
+                "color": "#000000",
+                "position": 1
+            }
+        ],
+        "body": [],
+        "box_gallery": null,
+        "box_video": null,
+        "chained_topics": {
+            "box_next": null,
+            "box_prev": null
+        },
+        "current_date": 1664185150,
+        "external_url": null,
+        "footer_boxes": [],
+        "headline": {
+            "authors": [
+                {
+                    "id": 1900,
+                    "job": "",
+                    "name": "Сергей Истомин",
+                    "slug": "istomin"
+                }
+            ],
+            "info": {
+                "announce": "Сенатор Совета Федерации Сергей Цеков заявил, что считает необходимым запретить выезд за границу всем, кто находится в призывном возрасте. Вместе с тем он отметил, что выезд за рубеж можно сделать разрешенным по медицинским показаниям, а также тем, кто не годен к военной службе. ",
+                "comments_enabled": null,
+                "id": "/news/2022/09/26/sovvd/",
+                "modified_at": 1664179620,
+                "rightcol": "",
+                "title": "В Совфеде предложили запретить выезд из страны россиянам призывного возраста"
+            },
+            "links": {
+                "mobile": "https://lenta.ru/news/2022/09/26/sovvd/",
+                "public": "https://lenta.ru/news/2022/09/26/sovvd/"
+            },
+            "rubrics": {
+                "main_rubric": {
+                    "path": "/rubrics/russia",
+                    "slug": "russia",
+                    "title": "Россия"
+                },
+                "subrubrics": [
+                    {
+                        "slug": "politic",
+                        "title": "Политика"
+                    }
+                ]
+            },
+            "tags": [
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "GOOD_auto",
+                    "slug": "good_news_auto"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "MILITARY",
+                    "slug": "military"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Positive text",
+                    "slug": "ad-good"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Александр Хинштейн",
+                    "slug": "hinshteyn-aleksandr"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Владимир Путин",
+                    "slug": "putin-vladimir"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Госдума",
+                    "slug": "gosduma"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "ГЦ",
+                    "slug": "gc"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Мобилизация в России",
+                    "slug": "tagged_story_auto_1309782"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Росгвардия",
+                    "slug": "rosgvardiya"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Сергей Цеков",
+                    "slug": "tsekov-sergey"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Совет Федерации",
+                    "slug": "sovet-federatsii"
+                }
+            ],
+            "title_image": {
+                "variants": {
+                    "detail": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110640905/detail_4b408812736dc1ef3c47296b658c6b75.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "pic": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110640914/pic_7dee7a444a095569acbf2af8385a9b64.jpg",
+                        "height": 280,
+                        "width": 420
+                    },
+                    "pwa_list_rect_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641096/pwa_list_rect_1024_4aed47b4eef7b36bb0dc2847bb816e13.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641101/pwa_list_rect_1024_webp_51d73858360431b251c107d4aa0ac395.webp",
+                        "height": 683,
+                        "width": 1024
+                    },
+                    "pwa_list_rect_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641083/pwa_list_rect_1280_f54060279ecfcc0a263e1cd08ea3a709.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641091/pwa_list_rect_1280_webp_43210f733c00a8a4ad6b935454b6cfd3.webp",
+                        "height": 854,
+                        "width": 1280
+                    },
+                    "pwa_list_rect_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641117/pwa_list_rect_320_5fddb9595736a0b48cb21c59fd32ec14.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641123/pwa_list_rect_320_webp_ecbe5c551fea99c21fbdd82feb8352fa.webp",
+                        "height": 213,
+                        "width": 320
+                    },
+                    "pwa_list_rect_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641106/pwa_list_rect_768_8d565a550c5e35e0176b24fc32e31403.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641112/pwa_list_rect_768_webp_49207ee4cedf8d744e5dcab85153c12f.webp",
+                        "height": 512,
+                        "width": 768
+                    },
+                    "pwa_list_sq_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641016/pwa_list_sq_1024_5d386b05c04dc43257d6b677ae85335b.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641021/pwa_list_sq_1024_webp_ee7d9c847f0efce70a535d2a3263ab27.webp",
+                        "height": 1024,
+                        "width": 1024
+                    },
+                    "pwa_list_sq_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641005/pwa_list_sq_1280_44bcf82468ffc241d3aad4eb71e07b9b.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641011/pwa_list_sq_1280_webp_241e144dcd1f69188ef32a08f5f57110.webp",
+                        "height": 1280,
+                        "width": 1280
+                    },
+                    "pwa_list_sq_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641037/pwa_list_sq_320_bc6db2c10a297ab539c60f84dd7f8ce7.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641042/pwa_list_sq_320_webp_08c7ee85a46110fc1c6cf72cce784bba.webp",
+                        "height": 320,
+                        "width": 320
+                    },
+                    "pwa_list_sq_60": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641048/pwa_list_sq_60_3bce3290330084a8143652ecac8dbc51.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641058/pwa_list_sq_60_webp_b36ced19e662a6c702fe084e75975d75.webp",
+                        "height": 60,
+                        "width": 60
+                    },
+                    "pwa_list_sq_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641027/pwa_list_sq_768_f74cda5880655c251391719252ab1f7b.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641032/pwa_list_sq_768_webp_437c80dfb92f08d12035825df1c0b9ea.webp",
+                        "height": 768,
+                        "width": 768
+                    },
+                    "tabloid": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110640932/tabloid_88addedafb4e4cb3101730873449c8d1.jpg",
+                        "height": 64,
+                        "width": 96
+                    },
+                    "wide_16_9": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641192/wide_16_9_407991d44ca37e0c36e9290c10c5068f.jpg",
+                        "height": 720,
+                        "width": 1280
+                    },
+                    "wide_4_3": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/11/20220926110641187/wide_4_3_5ad847a2e61605ce3c783328e0232f46.jpg",
+                        "height": 960,
+                        "width": 1280
+                    }
+                },
+                "alt": null,
+                "caption": null,
+                "credits": "Фото: Илья Кошелев / Globallookpress.com"
+            },
+            "type": "news"
+        },
+        "is_advertisable": false,
+        "is_death": false,
+        "is_premium": false,
+        "is_promo": null,
+        "is_super_news": false,
+        "is_tragedy": false,
+        "is_trash": false,
+        "part_slug": null,
+        "related_topics": [],
+        "sharings_disabled": false,
+        "switch_off_advertise": null,
+        "title_image_allowed_in_topic": true,
+        "title_yandex": null,
+        "type": "news",
+        "voiceover": "/audio/2022/09/26/11/20220926112121451/original_mp3_f6ff8de6fb1357b74dcb3d38d17d6f83.mp3"
+    },
+    {
+        "author_topics": [
+            {
+                "addition": null,
+                "author_id": 2045,
+                "color": "#000000",
+                "position": 0
+            }
+        ],
+        "body": [],
+        "box_gallery": null,
+        "box_video": null,
+        "chained_topics": {
+            "box_next": null,
+            "box_prev": null
+        },
+        "current_date": 1664185150,
+        "external_url": null,
+        "footer_boxes": [],
+        "headline": {
+            "authors": [
+                {
+                    "id": 2045,
+                    "job": "Редактор отдела «Силовые структуры»",
+                    "name": "Елизавета Новикова",
+                    "slug": "elnovikova"
+                }
+            ],
+            "info": {
+                "announce": "В Иркутской области мужчина устроил стрельбу в военкомате в городе Усть-Илимск и ранил военкома. Стрелка оперативно задержали. Пострадавшего начальника призывной комиссии госпитализировали. Позже стала известна личность нападавшего — им оказался 25-летний местный житель Руслан Зинин.",
+                "comments_enabled": null,
+                "id": "/news/2022/09/26/strelbavoenkom/",
+                "modified_at": 1664171160,
+                "rightcol": "",
+                "title": "Россиянин устроил стрельбу в военкомате и ранил военкома"
+            },
+            "links": {
+                "mobile": "https://lenta.ru/news/2022/09/26/strelbavoenkom/",
+                "public": "https://lenta.ru/news/2022/09/26/strelbavoenkom/"
+            },
+            "rubrics": {
+                "main_rubric": {
+                    "path": "/rubrics/forces",
+                    "slug": "forces",
+                    "title": "Силовые структуры"
+                },
+                "subrubrics": [
+                    {
+                        "slug": "investigations",
+                        "title": "Следствие и суд"
+                    }
+                ]
+            },
+            "tags": [
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "CRIME",
+                    "slug": "crime"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "MILITARY",
+                    "slug": "military"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Positive text",
+                    "slug": "ad-good"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "ROAD-ACCIDENT",
+                    "slug": "roadaccident"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "БЦ",
+                    "slug": "bc"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ИРКУТСКАЯ ОБЛАСТЬ",
+                    "slug": "irkutskaya-oblast"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "УСТЬ-ИЛИМСК",
+                    "slug": "ust-ilimsk"
+                }
+            ],
+            "title_image": {
+                "variants": {
+                    "detail": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744179/detail_83624b97617010b8b0ac52e0bac6aee3.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "pic": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744187/pic_ebe3dba255b0e6aa0ba391e8a1c155a4.jpg",
+                        "height": 280,
+                        "width": 420
+                    },
+                    "pwa_list_rect_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744394/pwa_list_rect_1024_69c7fb712f950f1996baae1ff6988058.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744399/pwa_list_rect_1024_webp_dd2d6cabd7655421241e4d3f0d8aa221.webp",
+                        "height": 683,
+                        "width": 1024
+                    },
+                    "pwa_list_rect_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744378/pwa_list_rect_1280_8f5a92d6264590e822fe163ec7812950.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744384/pwa_list_rect_1280_webp_e19bcde5882a1e09e9b4f6489cd14770.webp",
+                        "height": 854,
+                        "width": 1280
+                    },
+                    "pwa_list_rect_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744416/pwa_list_rect_320_b3ed39cabbc547ac62e805daa0960371.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744420/pwa_list_rect_320_webp_bde8804436d1ec2f10eb62b18ba082fe.webp",
+                        "height": 213,
+                        "width": 320
+                    },
+                    "pwa_list_rect_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744405/pwa_list_rect_768_eb779d0e56d06a6f5e34d7b1363e761b.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744410/pwa_list_rect_768_webp_7ea73247ab2f1e24226b42f90e359408.webp",
+                        "height": 512,
+                        "width": 768
+                    },
+                    "pwa_list_sq_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744316/pwa_list_sq_1024_55da0ba9b3aea90470d1e2339dc4258c.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744321/pwa_list_sq_1024_webp_ab6af158179c60acdb95b7344d025b74.webp",
+                        "height": 1024,
+                        "width": 1024
+                    },
+                    "pwa_list_sq_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744305/pwa_list_sq_1280_2b17cb8bf286a9a68c954b541a3acf7f.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744310/pwa_list_sq_1280_webp_90d0a1e430b46f8f853777a3f629b50c.webp",
+                        "height": 1280,
+                        "width": 1280
+                    },
+                    "pwa_list_sq_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744337/pwa_list_sq_320_9e56c40230f7b04af5f9236e287c40e5.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744342/pwa_list_sq_320_webp_c5ba01d712df5b3aac80226fbbef5dcd.webp",
+                        "height": 320,
+                        "width": 320
+                    },
+                    "pwa_list_sq_60": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744347/pwa_list_sq_60_4049aa7b84eba6f04e97c03106564b46.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744352/pwa_list_sq_60_webp_ccfcc1c5faa5ca35ecef4f5a3ee262cd.webp",
+                        "height": 60,
+                        "width": 60
+                    },
+                    "pwa_list_sq_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744326/pwa_list_sq_768_10865759b3e34b3027667ca99b86313d.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744331/pwa_list_sq_768_webp_39532331c8fee1d37a842e0c1503ac2a.webp",
+                        "height": 768,
+                        "width": 768
+                    },
+                    "tabloid": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744212/tabloid_a980c73490d7ba9cd0bfc884df56cb6a.jpg",
+                        "height": 64,
+                        "width": 96
+                    },
+                    "wide_16_9": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744491/wide_16_9_36ead9f182062fc8f113d1a726b54e7e.jpg",
+                        "height": 720,
+                        "width": 1280
+                    },
+                    "wide_4_3": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/08/20220926084744486/wide_4_3_ca775afe6686ec8ca89a1664860a4f98.jpg",
+                        "height": 960,
+                        "width": 1280
+                    }
+                },
+                "alt": null,
+                "caption": null,
+                "credits": "Фото: Дмитрий Лебедев / Коммерсантъ"
+            },
+            "type": "news"
+        },
+        "is_advertisable": false,
+        "is_death": false,
+        "is_premium": false,
+        "is_promo": null,
+        "is_super_news": false,
+        "is_tragedy": false,
+        "is_trash": false,
+        "part_slug": "text",
+        "related_topics": [],
+        "sharings_disabled": false,
+        "switch_off_advertise": null,
+        "title_image_allowed_in_topic": true,
+        "title_yandex": null,
+        "type": "news",
+        "voiceover": "/audio/2022/09/26/09/20220926091823614/original_mp3_433a74ce1010d3e31170c6d2fabb3923.mp3"
+    },
+    {
+        "author_topics": [
+            {
+                "addition": null,
+                "author_id": 2029,
+                "color": "#000000",
+                "position": 0
+            }
+        ],
+        "body": [],
+        "box_gallery": null,
+        "box_video": null,
+        "chained_topics": {
+            "box_next": null,
+            "box_prev": null
+        },
+        "current_date": 1664185150,
+        "external_url": null,
+        "footer_boxes": [],
+        "headline": {
+            "authors": [
+                {
+                    "id": 2029,
+                    "job": "Редактор отдела «Общество»",
+                    "name": "Анна Щербакова",
+                    "slug": "anshcherbakova"
+                }
+            ],
+            "info": {
+                "announce": "Предприниматель и владелец компании «Конкорд» Евгений Пригожин признал, что создал в 2014 году группу, которую впоследствии назвали частной военной компанией «Вагнер». По словам бизнесмена, ЧВК была создана им весной 2014 года, «когда начался геноцид русского населения Донбасса».",
+                "comments_enabled": null,
+                "id": "/news/2022/09/26/prigozhhh/",
+                "modified_at": 1664175960,
+                "rightcol": "",
+                "title": "Пригожин признал создание ЧВК «Вагнер»"
+            },
+            "links": {
+                "mobile": "https://lenta.ru/news/2022/09/26/prigozhhh/",
+                "public": "https://lenta.ru/news/2022/09/26/prigozhhh/"
+            },
+            "rubrics": {
+                "main_rubric": {
+                    "path": "/rubrics/russia",
+                    "slug": "russia",
+                    "title": "Россия"
+                },
+                "subrubrics": [
+                    {
+                        "slug": "politic",
+                        "title": "Политика"
+                    }
+                ]
+            },
+            "tags": [
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "GOOD_auto",
+                    "slug": "good_news_auto"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Positive text",
+                    "slug": "ad-good"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "ГЦ",
+                    "slug": "gc"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Евгений Пригожин",
+                    "slug": "prigozhin-evgeniy"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "СИРИЯ",
+                    "slug": "siriya"
+                }
+            ],
+            "title_image": {
+                "variants": {
+                    "detail": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510278/detail_573a6428520e6511c73d7ed7fc199a73.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "pic": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510285/pic_9ddcdda03d407c7053f614fb371b4f9f.jpg",
+                        "height": 280,
+                        "width": 420
+                    },
+                    "pwa_list_rect_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510484/pwa_list_rect_1024_1f6afea9a131e7ac07a6452c6364237a.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510490/pwa_list_rect_1024_webp_eee64bbd4fbd594178f7f53e8a600619.webp",
+                        "height": 683,
+                        "width": 1024
+                    },
+                    "pwa_list_rect_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510473/pwa_list_rect_1280_f9d0d375453d2ea57a06a86b136cf69a.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510479/pwa_list_rect_1280_webp_2b666bebd0c33c02e5c0f262bd1218de.webp",
+                        "height": 854,
+                        "width": 1280
+                    },
+                    "pwa_list_rect_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510506/pwa_list_rect_320_f6751da1c7289518059cd75e47a4f5e9.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510511/pwa_list_rect_320_webp_8894f2df6bb4f41248310ecca294e3bb.webp",
+                        "height": 213,
+                        "width": 320
+                    },
+                    "pwa_list_rect_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510495/pwa_list_rect_768_f57d44ab2a8b4038af1a5519b6155a3e.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510501/pwa_list_rect_768_webp_d6b367ee3a1d8d7b806c8f5edf213416.webp",
+                        "height": 512,
+                        "width": 768
+                    },
+                    "pwa_list_sq_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510410/pwa_list_sq_1024_885d18894f2550d2620811c224de66e9.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510415/pwa_list_sq_1024_webp_4e7ec36c184768f2760fe80c8f4ea4a8.webp",
+                        "height": 1024,
+                        "width": 1024
+                    },
+                    "pwa_list_sq_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510399/pwa_list_sq_1280_8675570b20f51cf2f68b3a7d7b9b72bd.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510404/pwa_list_sq_1280_webp_2f4ca330222c0911bd2e683af1b0a3c9.webp",
+                        "height": 1280,
+                        "width": 1280
+                    },
+                    "pwa_list_sq_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510432/pwa_list_sq_320_8a5c2f56b462f597faa5431fc4d1c952.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510441/pwa_list_sq_320_webp_8c7fa496c22136ee32cf80257830ca26.webp",
+                        "height": 320,
+                        "width": 320
+                    },
+                    "pwa_list_sq_60": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510447/pwa_list_sq_60_ac976c363778702dd7fc4d74b8f31053.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510452/pwa_list_sq_60_webp_a9b99819027afdb0379e1cef6fb7b7d0.webp",
+                        "height": 60,
+                        "width": 60
+                    },
+                    "pwa_list_sq_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510421/pwa_list_sq_768_d1ddeda2247b29d4453d895950e8099c.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510427/pwa_list_sq_768_webp_7fbde0187b02285d307032b13ee7026a.webp",
+                        "height": 768,
+                        "width": 768
+                    },
+                    "tabloid": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510301/tabloid_26adb6535e33f91ee02a1cb3d31790de.jpg",
+                        "height": 64,
+                        "width": 96
+                    },
+                    "wide_16_9": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510589/wide_16_9_709070b0cd0929079d412fe26edda985.jpg",
+                        "height": 720,
+                        "width": 1280
+                    },
+                    "wide_4_3": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/10/20220926100510584/wide_4_3_57a0d75924f2f885313c2a7f52794ed9.jpg",
+                        "height": 960,
+                        "width": 1280
+                    }
+                },
+                "alt": null,
+                "caption": null,
+                "credits": "Фото: Виктор Антонюк / РИА Новости"
+            },
+            "type": "news"
+        },
+        "is_advertisable": false,
+        "is_death": false,
+        "is_premium": false,
+        "is_promo": null,
+        "is_super_news": false,
+        "is_tragedy": false,
+        "is_trash": false,
+        "part_slug": null,
+        "related_topics": [],
+        "sharings_disabled": false,
+        "switch_off_advertise": null,
+        "title_image_allowed_in_topic": true,
+        "title_yandex": null,
+        "type": "news",
+        "voiceover": "/audio/2022/09/26/10/20220926104748605/original_mp3_1c141f767ef5d07980dece401dcfaab5.mp3"
+    },
+    {
+        "author_topics": [
+            {
+                "addition": null,
+                "author_id": 1896,
+                "color": "#000000",
+                "position": 0
+            }
+        ],
+        "body": [],
+        "box_gallery": null,
+        "box_video": null,
+        "chained_topics": {
+            "box_next": null,
+            "box_prev": null
+        },
+        "current_date": 1664185150,
+        "external_url": null,
+        "footer_boxes": [],
+        "headline": {
+            "authors": [
+                {
+                    "id": 1896,
+                    "job": "Редактор отдела оперативной информации",
+                    "name": "Марина Совина",
+                    "slug": "sovina"
+                }
+            ],
+            "info": {
+                "announce": "Власти Японии утвердили новый пакет санкций против России. Под запретом оказался экспорт в Россию товаров, связанных с химоружием. Об этом говорится на сайте японского министерства экономики, торговли и промышленности. Новые санкции распространяются на 21 организацию, связанную с оборонной промышленностью.<br />",
+                "comments_enabled": null,
+                "id": "/news/2022/09/26/japan/",
+                "modified_at": 1664167380,
+                "rightcol": "",
+                "title": "Япония ввела новые санкции против России"
+            },
+            "links": {
+                "mobile": "https://lenta.ru/news/2022/09/26/japan/",
+                "public": "https://lenta.ru/news/2022/09/26/japan/"
+            },
+            "rubrics": {
+                "main_rubric": {
+                    "path": "/rubrics/economics",
+                    "slug": "economics",
+                    "title": "Экономика"
+                },
+                "subrubrics": [
+                    {
+                        "slug": "economy",
+                        "title": "Госэкономика"
+                    }
+                ]
+            },
+            "tags": [
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Positive text",
+                    "slug": "ad-good"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "БЦ",
+                    "slug": "bc"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Военная операция на Украине",
+                    "slug": "tagged_story_auto_1280313"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Дмитрий Медведев",
+                    "slug": "medvedev-dmitriy"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "КИЕВ",
+                    "slug": "kiev"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Курчатовский институт",
+                    "slug": "kurchatovskiy-institut"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "МИД России",
+                    "slug": "mid-rossii"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Минобороны России",
+                    "slug": "minoborony-rossii"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "МОСКВА",
+                    "slug": "moskva"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "РФ",
+                    "slug": "rf"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Санкции против России",
+                    "slug": "tagged_story_auto_1280307"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Совет безопасности РФ",
+                    "slug": "sovet-bezopasnosti-rf"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "УКРАИНА",
+                    "slug": "ukraina"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ЯПОНИЯ",
+                    "slug": "yaponiya"
+                }
+            ],
+            "title_image": {
+                "variants": {
+                    "detail": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103753/detail_35430838642e05af40d1754a286cd2ed.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "pic": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103761/pic_61b250b233a357e8541bd4e337b4f9ef.jpg",
+                        "height": 280,
+                        "width": 420
+                    },
+                    "pwa_list_rect_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103960/pwa_list_rect_1024_7bd9ce31fef6110104b0c24d5b90a765.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103969/pwa_list_rect_1024_webp_156aa2fd0b14fcc9a17447ecaef9149d.webp",
+                        "height": 683,
+                        "width": 1024
+                    },
+                    "pwa_list_rect_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103948/pwa_list_rect_1280_c8bb8288ca0c05a7d90d121d2d3fd042.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103954/pwa_list_rect_1280_webp_e87c9ffcf9d6826dc16289e3d34e16a4.webp",
+                        "height": 854,
+                        "width": 1280
+                    },
+                    "pwa_list_rect_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103987/pwa_list_rect_320_7753ac81242de86b1d0d07c550405288.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103992/pwa_list_rect_320_webp_65d66f20d80fdaad0445c6ef4174dace.webp",
+                        "height": 213,
+                        "width": 320
+                    },
+                    "pwa_list_rect_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103975/pwa_list_rect_768_4d30b15883baceaf5844aca843d7fc35.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103981/pwa_list_rect_768_webp_4af996db3faec4b543127c65c09b12c9.webp",
+                        "height": 512,
+                        "width": 768
+                    },
+                    "pwa_list_sq_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103884/pwa_list_sq_1024_d437cf466c27a31f914bbeb1d47d01d0.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103889/pwa_list_sq_1024_webp_87676243d2bf7748b68812cd885f0845.webp",
+                        "height": 1024,
+                        "width": 1024
+                    },
+                    "pwa_list_sq_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103873/pwa_list_sq_1280_d7b348b268087bea4f32f44d9521f3f2.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103878/pwa_list_sq_1280_webp_f2e692024c8a834ef90ed141c01f8912.webp",
+                        "height": 1280,
+                        "width": 1280
+                    },
+                    "pwa_list_sq_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103907/pwa_list_sq_320_19a91eb1bd2d477d6ceda7a29fe50c31.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103913/pwa_list_sq_320_webp_7b39146c18750be1f9e5d0e173c685e6.webp",
+                        "height": 320,
+                        "width": 320
+                    },
+                    "pwa_list_sq_60": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103920/pwa_list_sq_60_5ca7502d5423456087e9380c3873c617.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103925/pwa_list_sq_60_webp_d5b44d9bf30385b00514f738a882a701.webp",
+                        "height": 60,
+                        "width": 60
+                    },
+                    "pwa_list_sq_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103895/pwa_list_sq_768_a6314012ec8f855c00ebae195576d859.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103900/pwa_list_sq_768_webp_87e1f9a147f6851df5ea1f67338ba7e4.webp",
+                        "height": 768,
+                        "width": 768
+                    },
+                    "tabloid": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072103778/tabloid_1e5f63a8b93f08369db9e777bd3d7d96.jpg",
+                        "height": 64,
+                        "width": 96
+                    },
+                    "wide_16_9": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072104066/wide_16_9_1f018ab0026c00035fa2d95907220154.jpg",
+                        "height": 720,
+                        "width": 1280
+                    },
+                    "wide_4_3": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926072104061/wide_4_3_d4c474edf1cf2192a785c9046e5239dd.jpg",
+                        "height": 960,
+                        "width": 1280
+                    }
+                },
+                "alt": null,
+                "caption": null,
+                "credits": "Фото: Ilya Galakhov / Global Look Press"
+            },
+            "type": "news"
+        },
+        "is_advertisable": false,
+        "is_death": false,
+        "is_premium": false,
+        "is_promo": null,
+        "is_super_news": true,
+        "is_tragedy": false,
+        "is_trash": false,
+        "part_slug": null,
+        "related_topics": [],
+        "sharings_disabled": false,
+        "switch_off_advertise": null,
+        "title_image_allowed_in_topic": true,
+        "title_yandex": null,
+        "type": "news",
+        "voiceover": "/audio/2022/09/26/09/20220926092954982/original_mp3_a821c440850ce0b3fe25f5c5a7644345.mp3"
+    },
+    {
+        "author_topics": [
+            {
+                "addition": null,
+                "author_id": 1896,
+                "color": "#000000",
+                "position": 0
+            }
+        ],
+        "body": [],
+        "box_gallery": null,
+        "box_video": null,
+        "chained_topics": {
+            "box_next": null,
+            "box_prev": null
+        },
+        "current_date": 1664185150,
+        "external_url": null,
+        "footer_boxes": [],
+        "headline": {
+            "authors": [
+                {
+                    "id": 1896,
+                    "job": "Редактор отдела оперативной информации",
+                    "name": "Марина Совина",
+                    "slug": "sovina"
+                }
+            ],
+            "info": {
+                "announce": "Российские хакеры из группировки RaHDIt («Злые русские хакеры») опубликовали в открытом доступе данные о 1500 сотрудников службы внешней разведки (СВР) Украины. Сообщается, что в списке значатся данные представителей разведки, работающей под прикрытием посольств более чем в 20 странах. ",
+                "comments_enabled": null,
+                "id": "/news/2022/09/26/haker/",
+                "modified_at": 1664166960,
+                "rightcol": "",
+                "title": "Российские хакеры выложили данные 1500 украинских разведчиков"
+            },
+            "links": {
+                "mobile": "https://lenta.ru/news/2022/09/26/haker/",
+                "public": "https://lenta.ru/news/2022/09/26/haker/"
+            },
+            "rubrics": {
+                "main_rubric": {
+                    "path": "/rubrics/media",
+                    "slug": "media",
+                    "title": "Интернет и СМИ"
+                },
+                "subrubrics": [
+                    {
+                        "slug": "hackers",
+                        "title": "Киберпреступность"
+                    }
+                ]
+            },
+            "tags": [
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "ADULT",
+                    "slug": "adult"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "CRIME",
+                    "slug": "crime"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "NEGATIVITY_WEAK",
+                    "slug": "negativity_weak"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Positive text",
+                    "slug": "ad-good"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "WEAPON",
+                    "slug": "weapon"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "АЗЕРБАЙДЖАН",
+                    "slug": "azerbaydzhan"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "АРГЕНТИНА",
+                    "slug": "argentina"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "БЦ",
+                    "slug": "bc"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ВЕНГРИЯ",
+                    "slug": "vengriya"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ГЕРМАНИЯ",
+                    "slug": "germaniya"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ГРЕЦИЯ",
+                    "slug": "gretsiya"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "ЕС",
+                    "slug": "es"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ИРАК",
+                    "slug": "irak"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ИТАЛИЯ",
+                    "slug": "italiya"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "НАТО",
+                    "slug": "nato"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "ООН",
+                    "slug": "oon"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ПОЛЬША",
+                    "slug": "polsha"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "СВР России",
+                    "slug": "svr-rossii"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "США",
+                    "slug": "ssha"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ТАДЖИКИСТАН",
+                    "slug": "tadzhikistan"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "УКРАИНА",
+                    "slug": "ukraina"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ФРАНЦИЯ",
+                    "slug": "frantsiya"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ЮАР",
+                    "slug": "yuar"
+                }
+            ],
+            "title_image": {
+                "variants": {
+                    "detail": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709040/detail_ad6332866e893df80eb3ab1533391940.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "pic": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709049/pic_a2d1edc3f6943a8720e4945a141ac8d5.jpg",
+                        "height": 280,
+                        "width": 420
+                    },
+                    "pwa_list_rect_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709269/pwa_list_rect_1024_61d6de6e9d2926db695cf828993a9de0.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709275/pwa_list_rect_1024_webp_2c49c260d1f6df57f7f25c3050faffd9.webp",
+                        "height": 683,
+                        "width": 1024
+                    },
+                    "pwa_list_rect_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709258/pwa_list_rect_1280_6fa111c4dce37e4693e80d63eb28584a.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709263/pwa_list_rect_1280_webp_b7e980b837cd5397d9e8e1e18f91a159.webp",
+                        "height": 854,
+                        "width": 1280
+                    },
+                    "pwa_list_rect_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709291/pwa_list_rect_320_c45a7000c181808d9a2f0ddd9b0fdbfd.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709297/pwa_list_rect_320_webp_b0198404837819187cfb7a52c4aa5f9e.webp",
+                        "height": 213,
+                        "width": 320
+                    },
+                    "pwa_list_rect_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709280/pwa_list_rect_768_bc2b87a99bd1e3b58effa3ef54bbd545.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709285/pwa_list_rect_768_webp_ce6ce43de6859b36994657ac039f98a5.webp",
+                        "height": 512,
+                        "width": 768
+                    },
+                    "pwa_list_sq_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709198/pwa_list_sq_1024_26ae4ca6edbb5e20f6df5e22a8ee714c.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709204/pwa_list_sq_1024_webp_ad1afc2bd4ba879295c2b87cbe9b0d8f.webp",
+                        "height": 1024,
+                        "width": 1024
+                    },
+                    "pwa_list_sq_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709187/pwa_list_sq_1280_8ea4a96ce7cde091d0619f44dd57701a.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709193/pwa_list_sq_1280_webp_98df5fef309e0ef222313de624f244c0.webp",
+                        "height": 1280,
+                        "width": 1280
+                    },
+                    "pwa_list_sq_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709220/pwa_list_sq_320_6f45b0abb11a446fb826c591911d3612.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709225/pwa_list_sq_320_webp_c1fc01835d736772ba0f33e272aae0b2.webp",
+                        "height": 320,
+                        "width": 320
+                    },
+                    "pwa_list_sq_60": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709231/pwa_list_sq_60_33a327c9c28b262bb7afacf78e447d84.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709236/pwa_list_sq_60_webp_78492d582aa23f9bc2caf6d6820873e5.webp",
+                        "height": 60,
+                        "width": 60
+                    },
+                    "pwa_list_sq_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709209/pwa_list_sq_768_2c02cfd86a2ad6e0aca6768e2ebb1e84.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709215/pwa_list_sq_768_webp_f16c4669c221286bd9ee3b51c14406b1.webp",
+                        "height": 768,
+                        "width": 768
+                    },
+                    "tabloid": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709078/tabloid_6fd9f99146a6322a2c4c2ba7c63aac9a.jpg",
+                        "height": 64,
+                        "width": 96
+                    },
+                    "wide_16_9": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709374/wide_16_9_170ae5d2c4e02a2f68ed8de013a21a2a.jpg",
+                        "height": 720,
+                        "width": 1280
+                    },
+                    "wide_4_3": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/07/20220926073709369/wide_4_3_72de03d49517e1bfbd244f507a782473.jpg",
+                        "height": 960,
+                        "width": 1280
+                    }
+                },
+                "alt": null,
+                "caption": null,
+                "credits": "Фото: Unsplash"
+            },
+            "type": "news"
+        },
+        "is_advertisable": false,
+        "is_death": false,
+        "is_premium": false,
+        "is_promo": null,
+        "is_super_news": false,
+        "is_tragedy": false,
+        "is_trash": false,
+        "part_slug": null,
+        "related_topics": [],
+        "sharings_disabled": false,
+        "switch_off_advertise": null,
+        "title_image_allowed_in_topic": true,
+        "title_yandex": null,
+        "type": "news",
+        "voiceover": "/audio/2022/09/26/07/20220926073805817/original_mp3_5adcd27eb8e2b7ce43c724b5beaeeffd.mp3"
+    },
+    {
+        "author_topics": [
+            {
+                "addition": null,
+                "author_id": 1896,
+                "color": "#000000",
+                "position": 0
+            }
+        ],
+        "body": [],
+        "box_gallery": null,
+        "box_video": null,
+        "chained_topics": {
+            "box_next": null,
+            "box_prev": null
+        },
+        "current_date": 1664185150,
+        "external_url": null,
+        "footer_boxes": [],
+        "headline": {
+            "authors": [
+                {
+                    "id": 1896,
+                    "job": "Редактор отдела оперативной информации",
+                    "name": "Марина Совина",
+                    "slug": "sovina"
+                }
+            ],
+            "info": {
+                "announce": "Госсекретарь США Энтони Блинкен заявил, что мир никогда не признает Донецкую и Луганскую народные республики (ДНР и ЛНР), а также Херсонскую и Запорожскую области частью России. После начала референдумов президент США Джо Байден также исключил признание их результатов и пообещал подвергнуть Россию новым санкциям. ",
+                "comments_enabled": null,
+                "id": "/news/2022/09/26/blinkenparts/",
+                "modified_at": 1664163660,
+                "rightcol": "",
+                "title": "Госдеп США заявил о непризнании миром ЛНР и ДНР в составе России"
+            },
+            "links": {
+                "mobile": "https://lenta.ru/news/2022/09/26/blinkenparts/",
+                "public": "https://lenta.ru/news/2022/09/26/blinkenparts/"
+            },
+            "rubrics": {
+                "main_rubric": {
+                    "path": "/rubrics/world",
+                    "slug": "world",
+                    "title": "Мир"
+                },
+                "subrubrics": [
+                    {
+                        "slug": "politic",
+                        "title": "Политика"
+                    }
+                ]
+            },
+            "tags": [
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Positive text",
+                    "slug": "ad-good"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Алексей Мартынов",
+                    "slug": "martynov-aleksey"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "БЦ",
+                    "slug": "bc"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Владимир Зеленский",
+                    "slug": "zelenskiy-vladimir"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Генассамблея ООН",
+                    "slug": "genassambleya-oon"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ГЕРМАНИЯ",
+                    "slug": "germaniya"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Джозеф Байден",
+                    "slug": "bayden-dzhozef"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Олаф Шольц",
+                    "slug": "sholts-olaf"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "проведение референдум",
+                    "slug": "tagged_story_auto_1309224"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Референдум в ДНР",
+                    "slug": "tagged_story_auto_1296745"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Референдум в ЛНР",
+                    "slug": "tagged_story_auto_1296747"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Референдум в Херсонской области",
+                    "slug": "tagged_story_auto_1296756"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "РФ",
+                    "slug": "rf"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Совбез ООН",
+                    "slug": "sovbez-oon"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "США",
+                    "slug": "ssha"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "УКРАИНА",
+                    "slug": "ukraina"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ФРАНЦИЯ",
+                    "slug": "frantsiya"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Эммануэль Макрон",
+                    "slug": "makron-emmanuel"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Энтони Блинкен",
+                    "slug": "blinken-entoni"
+                }
+            ],
+            "title_image": {
+                "variants": {
+                    "detail": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525098/detail_8ea42f87f441ed0c6c278fb1c58aee7e.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "pic": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525104/pic_b3250560797865da360d265c47ca70fb.jpg",
+                        "height": 280,
+                        "width": 420
+                    },
+                    "pwa_list_rect_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525302/pwa_list_rect_1024_4d2d8ab8fd59e4e093b2feb7b62fcc87.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525308/pwa_list_rect_1024_webp_9605997312e922229401987946247d5c.webp",
+                        "height": 683,
+                        "width": 1024
+                    },
+                    "pwa_list_rect_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525291/pwa_list_rect_1280_3710b5f217250612ce07c2e80746daa4.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525297/pwa_list_rect_1280_webp_f2641afd2ef768770e0f8d725be3d9dd.webp",
+                        "height": 854,
+                        "width": 1280
+                    },
+                    "pwa_list_rect_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525325/pwa_list_rect_320_b633289c9b5bbf83acbcd72e95dfa06e.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525331/pwa_list_rect_320_webp_01781edb888b7571a4aa08eebca68028.webp",
+                        "height": 213,
+                        "width": 320
+                    },
+                    "pwa_list_rect_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525313/pwa_list_rect_768_d2bcbc994d6c06699cf8abaadee0be5e.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525320/pwa_list_rect_768_webp_40545fbdf7699dc8b28e2aa13ac20afb.webp",
+                        "height": 512,
+                        "width": 768
+                    },
+                    "pwa_list_sq_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525219/pwa_list_sq_1024_e294419cdb9a88a887607c034c3f7c6d.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525224/pwa_list_sq_1024_webp_630fbb31e0ee1140aa2d52b45a19cf06.webp",
+                        "height": 1024,
+                        "width": 1024
+                    },
+                    "pwa_list_sq_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525209/pwa_list_sq_1280_e07dc8a94ab75285ef2e7d4b49fef0ab.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525214/pwa_list_sq_1280_webp_43748e0a9bb5cf66c2eacc92332e3d5a.webp",
+                        "height": 1280,
+                        "width": 1280
+                    },
+                    "pwa_list_sq_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525241/pwa_list_sq_320_f7b7313eed29ef90d8d9046a94950584.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525251/pwa_list_sq_320_webp_6b5a3c548d022c08f99484a919d544ce.webp",
+                        "height": 320,
+                        "width": 320
+                    },
+                    "pwa_list_sq_60": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525257/pwa_list_sq_60_ed09ad47c015992fa48c5b9ddadbdeaf.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525262/pwa_list_sq_60_webp_a329869a89369c37c1bcca201e92ecb8.webp",
+                        "height": 60,
+                        "width": 60
+                    },
+                    "pwa_list_sq_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525229/pwa_list_sq_768_309e04c9983d5ce7f81b2a09badb9cde.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525235/pwa_list_sq_768_webp_42e4a827e8fc600789c7494859f01422.webp",
+                        "height": 768,
+                        "width": 768
+                    },
+                    "tabloid": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525120/tabloid_7ddc56202e6715f1d8b2c602d61799a9.jpg",
+                        "height": 64,
+                        "width": 96
+                    },
+                    "wide_16_9": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525405/wide_16_9_dbe7c6b5c1158bdcf3d1e836043e08d5.jpg",
+                        "height": 720,
+                        "width": 1280
+                    },
+                    "wide_4_3": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/06/20220926063525399/wide_4_3_6d20208bf7f13ad4344c0952066ea919.jpg",
+                        "height": 960,
+                        "width": 1280
+                    }
+                },
+                "alt": null,
+                "caption": null,
+                "credits": "Фото: Lev Radin / Keystone Press Agency / Globallookpress.com"
+            },
+            "type": "news"
+        },
+        "is_advertisable": false,
+        "is_death": false,
+        "is_premium": false,
+        "is_promo": null,
+        "is_super_news": true,
+        "is_tragedy": false,
+        "is_trash": false,
+        "part_slug": null,
+        "related_topics": [],
+        "sharings_disabled": false,
+        "switch_off_advertise": null,
+        "title_image_allowed_in_topic": true,
+        "title_yandex": null,
+        "type": "news",
+        "voiceover": "/audio/2022/09/26/07/20220926074537337/original_mp3_cb41241cd149e3d47af7b8de4c874890.mp3"
+    },
+    {
+        "author_topics": [
+            {
+                "addition": null,
+                "author_id": 2115,
+                "color": "#000000",
+                "position": 0
+            }
+        ],
+        "body": [],
+        "box_gallery": null,
+        "box_video": null,
+        "chained_topics": {
+            "box_next": null,
+            "box_prev": null
+        },
+        "current_date": 1664185150,
+        "external_url": null,
+        "footer_boxes": [],
+        "headline": {
+            "authors": [
+                {
+                    "id": 2115,
+                    "job": "Ночной линейный редактор",
+                    "name": "Юлия Мискевич",
+                    "slug": "miskevich"
+                }
+            ],
+            "info": {
+                "announce": "Новый пакет антироссийских санкций со стороны Евросоюза (ЕС) содержит предложение о запрете экспорта в Россию смартфонов, радиолокационной аппаратуры, лазерного оборудования и оказания IT-услуг российским клиентам. Помимо этого, в ЕС предложили запретить ввозить банкноты из западных стран в Россию. ",
+                "comments_enabled": null,
+                "id": "/news/2022/09/26/smartphone/",
+                "modified_at": 1664155320,
+                "rightcol": "",
+                "title": "В ЕС призвали запретить экспорт в Россию радаров и смартфонов"
+            },
+            "links": {
+                "mobile": "https://lenta.ru/news/2022/09/26/smartphone/",
+                "public": "https://lenta.ru/news/2022/09/26/smartphone/"
+            },
+            "rubrics": {
+                "main_rubric": {
+                    "path": "/rubrics/economics",
+                    "slug": "economics",
+                    "title": "Экономика"
+                },
+                "subrubrics": [
+                    {
+                        "slug": "companies",
+                        "title": "Бизнес"
+                    }
+                ]
+            },
+            "tags": [
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "FINANCE",
+                    "slug": "finance"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Positive text",
+                    "slug": "ad-good"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "БЦ",
+                    "slug": "bc"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "ВЕНГРИЯ",
+                    "slug": "vengriya"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Военная операция на Украине",
+                    "slug": "tagged_story_auto_1280313"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Денис Мантуров",
+                    "slug": "manturov-denis"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "ЕС",
+                    "slug": "es"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "КАЗАХСТАН",
+                    "slug": "kazahstan"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Максим Решетников",
+                    "slug": "reshetnikov-maksim"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Минпромторг",
+                    "slug": "minpromtorg"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Минэкономразвития",
+                    "slug": "minekonomrazvitiya"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Петер Сийярто",
+                    "slug": "siyyarto-peter"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Правительство РФ",
+                    "slug": "pravitelstvo-rf"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "РФ",
+                    "slug": "rf"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "УКРАИНА",
+                    "slug": "ukraina"
+                }
+            ],
+            "title_image": {
+                "variants": {
+                    "detail": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041957900/detail_b98b3d5480c221e474e19c338f1fa7d6.jpeg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "pic": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041957907/pic_52d37001847c5b5a585dd2adf9a45cbc.jpeg",
+                        "height": 280,
+                        "width": 420
+                    },
+                    "pwa_list_rect_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958116/pwa_list_rect_1024_4ead9abbfa56d429b0e7d17c0421011f.jpeg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958122/pwa_list_rect_1024_webp_cebdaf31f9b3cf2a689a26b02100adce.webp",
+                        "height": 683,
+                        "width": 1024
+                    },
+                    "pwa_list_rect_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958104/pwa_list_rect_1280_cbb2dfd9f93538ba0567ae5f330a4185.jpeg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958110/pwa_list_rect_1280_webp_a96217baf689102e09a018a330675c93.webp",
+                        "height": 854,
+                        "width": 1280
+                    },
+                    "pwa_list_rect_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958140/pwa_list_rect_320_0ce61017c5e6fc375cfdce9288039116.jpeg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958146/pwa_list_rect_320_webp_753efe2ecd4552fcfdbbc66412499ada.webp",
+                        "height": 213,
+                        "width": 320
+                    },
+                    "pwa_list_rect_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958128/pwa_list_rect_768_6e07ae53fbd20868ab5d1bd147f6ad2d.jpeg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958134/pwa_list_rect_768_webp_07331a54f8cb12ccfa2b06b4386b26ea.webp",
+                        "height": 512,
+                        "width": 768
+                    },
+                    "pwa_list_sq_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958023/pwa_list_sq_1024_519549ad797524996683dcd609be8113.jpeg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958030/pwa_list_sq_1024_webp_c30b39a0dc0d74c990a1bbf5bab67f19.webp",
+                        "height": 1024,
+                        "width": 1024
+                    },
+                    "pwa_list_sq_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958011/pwa_list_sq_1280_2cc924e75fd96e9fee2c593a8fcb5a8c.jpeg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958017/pwa_list_sq_1280_webp_47a52f7584a1b2b5681a793e6fdca7b4.webp",
+                        "height": 1280,
+                        "width": 1280
+                    },
+                    "pwa_list_sq_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958048/pwa_list_sq_320_af4b1202befcf54236184f12b4e2e106.jpeg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958055/pwa_list_sq_320_webp_d9d051c064ff65e03e2a73b453082b2a.webp",
+                        "height": 320,
+                        "width": 320
+                    },
+                    "pwa_list_sq_60": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958060/pwa_list_sq_60_3fac46b92143d50e2cb3f3844ef368b9.jpeg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958079/pwa_list_sq_60_webp_7967250045a081e4b20dc27772425684.webp",
+                        "height": 60,
+                        "width": 60
+                    },
+                    "pwa_list_sq_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958035/pwa_list_sq_768_06ce3b69224d52475ee5e88f12c735be.jpeg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958042/pwa_list_sq_768_webp_5b6e481945985da6a01b59579c67fc8a.webp",
+                        "height": 768,
+                        "width": 768
+                    },
+                    "tabloid": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041957924/tabloid_764386605c40f38f95031c41acf44743.jpeg",
+                        "height": 64,
+                        "width": 96
+                    },
+                    "wide_16_9": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958220/wide_16_9_35cd7b9a9728426a96925d167c0629fa.jpeg",
+                        "height": 720,
+                        "width": 1280
+                    },
+                    "wide_4_3": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/04/20220926041958214/wide_4_3_fcf7e723efa285cd57d98599f08c4ee4.jpeg",
+                        "height": 960,
+                        "width": 1280
+                    }
+                },
+                "alt": null,
+                "caption": null,
+                "credits": "Фото: Komsomolskaya Pravda / Global Look Press"
+            },
+            "type": "news"
+        },
+        "is_advertisable": false,
+        "is_death": false,
+        "is_premium": false,
+        "is_promo": null,
+        "is_super_news": true,
+        "is_tragedy": false,
+        "is_trash": false,
+        "part_slug": null,
+        "related_topics": [],
+        "sharings_disabled": false,
+        "switch_off_advertise": null,
+        "title_image_allowed_in_topic": true,
+        "title_yandex": null,
+        "type": "news",
+        "voiceover": "/audio/2022/09/26/04/20220926042306787/original_mp3_4932a4f4c1c6fafb843425c8617c902f.mp3"
+    },
+    {
+        "author_topics": [
+            {
+                "addition": null,
+                "author_id": 1896,
+                "color": "#000000",
+                "position": 0
+            }
+        ],
+        "body": [],
+        "box_gallery": null,
+        "box_video": null,
+        "chained_topics": {
+            "box_next": null,
+            "box_prev": null
+        },
+        "current_date": 1664185150,
+        "external_url": null,
+        "footer_boxes": [],
+        "headline": {
+            "authors": [
+                {
+                    "id": 1896,
+                    "job": "Редактор отдела оперативной информации",
+                    "name": "Марина Совина",
+                    "slug": "sovina"
+                }
+            ],
+            "info": {
+                "announce": "Помощник президента США по национальной безопасности Джейк Салливан заявил, что Вашингтон ответит Москве на возможное применение ядерного оружия. По его словам, в Белом доме предупредили российскую сторону о катастрофических последствиях использования указанного вида оружия. <br />",
+                "comments_enabled": null,
+                "id": "/news/2022/09/26/oruzhie/",
+                "modified_at": 1664143214,
+                "rightcol": "",
+                "title": "США пригрозили России ответом в случае применения ядерного оружия"
+            },
+            "links": {
+                "mobile": "https://lenta.ru/news/2022/09/26/oruzhie/",
+                "public": "https://lenta.ru/news/2022/09/26/oruzhie/"
+            },
+            "rubrics": {
+                "main_rubric": {
+                    "path": "/rubrics/world",
+                    "slug": "world",
+                    "title": "Мир"
+                },
+                "subrubrics": [
+                    {
+                        "slug": "politic",
+                        "title": "Политика"
+                    }
+                ]
+            },
+            "tags": [
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "MILITARY",
+                    "slug": "military"
+                },
+                {
+                    "category": null,
+                    "commercial": false,
+                    "name": "Positive text",
+                    "slug": "ad-good"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "WEAPON",
+                    "slug": "weapon"
+                },
+                {
+                    "category": null,
+                    "commercial": true,
+                    "name": "БЦ",
+                    "slug": "bc"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Владимир Зеленский",
+                    "slug": "zelenskiy-vladimir"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Генассамблея ООН",
+                    "slug": "genassambleya-oon"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Джейк Салливан",
+                    "slug": "sallivan-dzheyk"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Дмитрий Полянский",
+                    "slug": "polyanskiy-dmitriy"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "Единая Россия",
+                    "slug": "edinaya-rossiya"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Иван Нечаев",
+                    "slug": "nechaev-ivan"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "ЛДПР",
+                    "slug": "ldpr"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "МИД России",
+                    "slug": "mid-rossii"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "МОСКВА",
+                    "slug": "moskva"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "НАТО",
+                    "slug": "nato"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Олег Морозов",
+                    "slug": "morozov-oleg"
+                },
+                {
+                    "category": "organization",
+                    "commercial": false,
+                    "name": "ООН",
+                    "slug": "oon"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "РФ",
+                    "slug": "rf"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Сергей Лавров",
+                    "slug": "lavrov-sergey"
+                },
+                {
+                    "category": "person",
+                    "commercial": false,
+                    "name": "Сергей Рябков",
+                    "slug": "ryabkov-sergey"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "США",
+                    "slug": "ssha"
+                },
+                {
+                    "category": "geo",
+                    "commercial": false,
+                    "name": "УКРАИНА",
+                    "slug": "ukraina"
+                }
+            ],
+            "title_image": {
+                "variants": {
+                    "detail": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649466/detail_fe37a3a8953fc71d90c93e3f56e430c3.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "pic": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649474/pic_4960470c2c80c3b29c6779446502c563.jpg",
+                        "height": 280,
+                        "width": 420
+                    },
+                    "pwa_list_rect_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649646/pwa_list_rect_1024_476f5cb00ca1c357ddf3bc90f47cbe93.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649651/pwa_list_rect_1024_webp_37b33cdfbcfbf9b2b306f449b39c59fc.webp",
+                        "height": 683,
+                        "width": 1024
+                    },
+                    "pwa_list_rect_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649635/pwa_list_rect_1280_f471637137a820ac1afb4aed04b92e8f.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649641/pwa_list_rect_1280_webp_d170a20ef5684be89a513dc814f2b094.webp",
+                        "height": 854,
+                        "width": 1280
+                    },
+                    "pwa_list_rect_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649667/pwa_list_rect_320_556d8adbc576c183834b3abe6ef7c6c5.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649672/pwa_list_rect_320_webp_69a3e8559c93cf53ce1f5b32762f616d.webp",
+                        "height": 213,
+                        "width": 320
+                    },
+                    "pwa_list_rect_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649656/pwa_list_rect_768_7d22bf5589d8ed68bbcf4dc1e1562b24.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649661/pwa_list_rect_768_webp_523c08514b5debbab5ff59143d1a3c3c.webp",
+                        "height": 512,
+                        "width": 768
+                    },
+                    "pwa_list_sq_1024": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649578/pwa_list_sq_1024_59a7f2935ed6e1cfca8cf595326237ba.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649583/pwa_list_sq_1024_webp_3cee33950db6cd91c7e4e885bb64e50a.webp",
+                        "height": 1024,
+                        "width": 1024
+                    },
+                    "pwa_list_sq_1280": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649567/pwa_list_sq_1280_551ba9d9e1f9cf6f0323637d3c743cfb.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649573/pwa_list_sq_1280_webp_e31e5f1bc437106b07b106dd358d4aea.webp",
+                        "height": 1280,
+                        "width": 1280
+                    },
+                    "pwa_list_sq_320": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649600/pwa_list_sq_320_ce488c4d1908c1590e77ac2d98644e01.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649605/pwa_list_sq_320_webp_1862ac8764ba06fede7726e32f44258a.webp",
+                        "height": 320,
+                        "width": 320
+                    },
+                    "pwa_list_sq_60": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649610/pwa_list_sq_60_5e2476d8fbfc9d66f769cb5992ed44a9.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649615/pwa_list_sq_60_webp_d2561bd683975c0e58ad3739c43ba1f2.webp",
+                        "height": 60,
+                        "width": 60
+                    },
+                    "pwa_list_sq_768": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649589/pwa_list_sq_768_e06e8944252b2e5e3f4649f2212bf867.jpg",
+                        "webp": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649594/pwa_list_sq_768_webp_e51ce47666a34a8213bda400fa77b89b.webp",
+                        "height": 768,
+                        "width": 768
+                    },
+                    "tabloid": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649491/tabloid_b660f93cd02782ad092eee442ebac2ef.jpg",
+                        "height": 64,
+                        "width": 96
+                    },
+                    "wide_16_9": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649743/wide_16_9_277df63340869be33273c0f4c0e6d7ae.jpg",
+                        "height": 720,
+                        "width": 1280
+                    },
+                    "wide_4_3": {
+                        "url": "https://icdn.lenta.ru/images/2022/09/26/00/20220926003649738/wide_4_3_6938a49b4c4bcf1a0100f6c4b3989f40.jpg",
+                        "height": 960,
+                        "width": 1280
+                    }
+                },
+                "alt": null,
+                "caption": "Джейк Салливан         ",
+                "credits": "Фото: Kevin Lamarque / Reuters"
+            },
+            "type": "news"
+        },
+        "is_advertisable": false,
+        "is_death": false,
+        "is_premium": false,
+        "is_promo": null,
+        "is_super_news": true,
+        "is_tragedy": false,
+        "is_trash": false,
+        "part_slug": null,
+        "related_topics": [],
+        "sharings_disabled": false,
+        "switch_off_advertise": null,
+        "title_image_allowed_in_topic": true,
+        "title_yandex": null,
+        "type": "news",
+        "voiceover": "/audio/2022/09/26/01/20220926010118603/original_mp3_5b088ad958ec53fc3aaca5837ad70325.mp3"
+    }
+]

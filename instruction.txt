@@ -1,0 +1,102 @@
+See our documentation: 
+
+/topics/by_list/
+Returns a set of topics belonging to the list.
+## Arguments
+  slug is an slug of required list, mandatory argument
+## Examples
+  GET api.lenta.ru/v2/topics/by_list/popular
+## How I can get list of available slugs?
+  Take advantage of our dictionary:
+  GET api.lenta.ru/v2/lists
+
+
+/topics/by_rubrics/
+Returns a set of topics by rubrics.
+## Arguments
+  limit by default equals to 50, optional argument
+  limit is restricted by 100 elements
+  offset by default equals to 0, optional argument
+  rubric is an array of rubrics, mandatory argument
+## Examples
+  GET api.lenta.ru/v2/topics/by_rubrics?rubric[]=russia&rubric[]=moscow&limit=20&offset=10
+
+
+/topics/by_tags/
+Returns a set of topics by tags.
+## Arguments
+  limit is restricted by 100 elements
+  offset by default equals to 0, optional argument
+  tag is an array of tags, mandatory argument
+## Examples
+  GET api.lenta.ru/v2/topics/by_tags?tag[]=no_ads&tag[]=goodnews&limit=20&offset=10
+
+
+/topic/by_url
+Returns a topic by rel url
+## Arguments
+  rel_url — single string url, mandatory argument
+## Examples
+  GET api.lenta.ru/v2/topics/by_url?rel_url[]=/news/2016/10/01/clintonobama/
+
+
+/topics/by_urls
+Returns a set of topics by rel urls
+## Arguments
+  rel_url is an array of urls, mandatory argument
+## Examples
+  GET api.lenta.ru/topics?rel_url[]=/news/2016/10/01/clintonobama/&rel_url[]=/story/gulfoil/
+  GET api.lenta.ru/v2/topics/by_urls?rel_url[]=/news/2016/10/01/clintonobama/&rel_url[]=/story/gulfoil/
+
+
+
+
+/topics/by_list/
+Returns a set of topics belonging to the list.
+## Arguments
+  slug is an slug of required list, mandatory argument
+## Examples
+  GET api.lenta.ru/v3/topics/by_list/popular
+## How I can get list of available slugs?
+  Take advantage of our dictionary:
+  GET api.lenta.ru/v3/lists
+
+
+/topics/by_rubrics/
+Returns a set of topics by rubrics.
+## Arguments
+  limit by default equals to 50, optional argument
+  limit is restricted by 100 elements
+  offset by default equals to 0, optional argument
+  rubric is an array of rubrics, mandatory argument
+## Examples
+  GET api.lenta.ru/v3/topics/by_rubrics?rubric[]=russia&rubric[]=moscow&limit=20&offset=10
+
+
+/topics/by_tags/
+Returns a set of topics by tags.
+## Arguments
+  limit is restricted by 100 elements
+  offset by default equals to 0, optional argument
+  tag is an array of tags, mandatory argument
+## Examples
+  GET api.lenta.ru/v3/topics/by_tags?tag[]=no_ads&tag[]=goodnews&limit=20&offset=10
+
+
+/topic/by_url
+Returns a topic by rel url
+## Arguments
+  rel_url — single string url, mandatory argument
+## Examples
+  GET api.lenta.ru/v3/topics/by_url?rel_url[]=/news/2016/10/01/clintonobama/
+
+
+/topics/by_urls
+Returns a set of topics by rel urls
+## Arguments
+  rel_url is an array of urls, mandatory argument
+## Examples
+  GET api.lenta.ru/topics?rel_url[]=/news/2016/10/01/clintonobama/&rel_url[]=/story/gulfoil/
+  GET api.lenta.ru/v3/topics/by_urls?rel_url[]=/news/2016/10/01/clintonobama/&rel_url[]=/story/gulfoil/
+
+

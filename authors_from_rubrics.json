@@ -1,0 +1,457 @@
+[
+    {
+        "Author_name": "Анастасия Шейкина",
+        "Author_job": "Редактор отдела «Общество»",
+        "Author_url": "https://api.lenta.ru/parts/authors/asheikina"
+    },
+    {
+        "Author_name": "Константин Лысяков",
+        "Author_job": "Редактор отдела «Общество»",
+        "Author_url": "https://api.lenta.ru/parts/authors/klysyakov"
+    },
+    {
+        "Author_name": "Анна Щербакова",
+        "Author_job": "Редактор отдела «Общество»",
+        "Author_url": "https://api.lenta.ru/parts/authors/anshcherbakova"
+    },
+    {
+        "Author_name": "Алена Шаповалова",
+        "Author_job": "Сотрудник отдела «Бизнес»",
+        "Author_url": "https://api.lenta.ru/parts/authors/irtu98475"
+    },
+    {
+        "Author_name": "Алена Шевченко",
+        "Author_job": "Корреспондент отдела оперативной информации",
+        "Author_url": "https://api.lenta.ru/parts/authors/eshevchenko"
+    },
+    {
+        "Author_name": "Константин Ляпунов",
+        "Author_job": "Редактор отдела «Бизнес»",
+        "Author_url": "https://api.lenta.ru/parts/authors/lapunov"
+    },
+    {
+        "Author_name": "Сергей Истомин",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/istomin"
+    },
+    {
+        "Author_name": "Марина Совина",
+        "Author_job": "Редактор отдела оперативной информации",
+        "Author_url": "https://api.lenta.ru/parts/authors/sovina"
+    },
+    {
+        "Author_name": "Никита Абрамов",
+        "Author_job": "Редактор отдела «Общество»",
+        "Author_url": "https://api.lenta.ru/parts/authors/nabramov"
+    },
+    {
+        "Author_name": "Карина Черных",
+        "Author_job": "Редактор отдела «Ценности»",
+        "Author_url": "https://api.lenta.ru/parts/authors/chern"
+    },
+    {
+        "Author_name": "Алиса Дмитриева",
+        "Author_job": "Редактор отдела «Из жизни»",
+        "Author_url": "https://api.lenta.ru/parts/authors/dmitrieva"
+    },
+    {
+        "Author_name": "Алина Гостева",
+        "Author_job": "Редактор отдела «Ценности» ",
+        "Author_url": "https://api.lenta.ru/parts/authors/agosteva"
+    },
+    {
+        "Author_name": "Дарья Рыбак",
+        "Author_job": "Редактор отдела «Путешествия»",
+        "Author_url": "https://api.lenta.ru/parts/authors/drybak"
+    },
+    {
+        "Author_name": "Варвара Кошечкина",
+        "Author_job": "Редактор отдела оперативной информации",
+        "Author_url": "https://api.lenta.ru/parts/authors/varvarakoshechkina"
+    },
+    {
+        "Author_name": "Софья Ермакова",
+        "Author_job": "Редактор",
+        "Author_url": "https://api.lenta.ru/parts/authors/ermakova"
+    },
+    {
+        "Author_name": "Мария Сметанина",
+        "Author_job": "Редактор",
+        "Author_url": "https://api.lenta.ru/parts/authors/smetanina"
+    },
+    {
+        "Author_name": "Варвара Кузьмина",
+        "Author_job": "Ночной линейный редактор",
+        "Author_url": "https://api.lenta.ru/parts/authors/kuzmina"
+    },
+    {
+        "Author_name": "Дмитрий Окунев",
+        "Author_job": "Редактор",
+        "Author_url": "https://api.lenta.ru/parts/authors/dokunev"
+    },
+    {
+        "Author_name": "Никита Савин",
+        "Author_job": "Редактор отдела «Из жизни»",
+        "Author_url": "https://api.lenta.ru/parts/authors/savin"
+    },
+    {
+        "Author_name": "Григорий Шугаев",
+        "Author_job": "business@lenta-co.ru",
+        "Author_url": "https://api.lenta.ru/parts/authors/shugaev"
+    },
+    {
+        "Author_name": "Михаил Архипов",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/markhipov"
+    },
+    {
+        "Author_name": "Анастасия Заикина",
+        "Author_job": "редактор отдела БСССР",
+        "Author_url": "https://api.lenta.ru/parts/authors/azaikina"
+    },
+    {
+        "Author_name": "Кристина Есикова",
+        "Author_job": "редактор отдела БСССР",
+        "Author_url": "https://api.lenta.ru/parts/authors/esikova"
+    },
+    {
+        "Author_name": "Василий Мека",
+        "Author_job": "редактор отдела «Бывший СССР»",
+        "Author_url": "https://api.lenta.ru/parts/authors/v_meka"
+    },
+    {
+        "Author_name": "Алевтина Запольская",
+        "Author_job": "Редактор отдела «Бывший СССР»",
+        "Author_url": "https://api.lenta.ru/parts/authors/alevtinazapolskaya"
+    },
+    {
+        "Author_name": "Николай Чигасов",
+        "Author_job": "Корреспондент",
+        "Author_url": "https://api.lenta.ru/parts/authors/nchigasov"
+    },
+    {
+        "Author_name": "Дарья Коршунова",
+        "Author_job": "Редактор отдела «Спорт»",
+        "Author_url": "https://api.lenta.ru/parts/authors/korshunova"
+    },
+    {
+        "Author_name": "Анастасия Борисова",
+        "Author_job": "Редактор отдела «Спорт»",
+        "Author_url": "https://api.lenta.ru/parts/authors/nastyaborisova"
+    },
+    {
+        "Author_name": "Ангелина Никитина",
+        "Author_job": "Старший редактор отдела «Спорт»",
+        "Author_url": "https://api.lenta.ru/parts/authors/an_nikitina"
+    },
+    {
+        "Author_name": "Андрей Стрельцов",
+        "Author_job": "Редактор отдела «Спорт»",
+        "Author_url": "https://api.lenta.ru/parts/authors/andreyanosov"
+    },
+    {
+        "Author_name": "Ксения Курашкина",
+        "Author_job": "Редактор отдела «Спорт»",
+        "Author_url": "https://api.lenta.ru/parts/authors/kurashkina"
+    },
+    {
+        "Author_name": "Алексей Гусев",
+        "Author_job": "Редактор отдела «Спорт»",
+        "Author_url": "https://api.lenta.ru/parts/authors/a_gusev"
+    },
+    {
+        "Author_name": "Платон Щукин",
+        "Author_job": "Редактор отдела «Экономика»",
+        "Author_url": "https://api.lenta.ru/parts/authors/pshchukin"
+    },
+    {
+        "Author_name": "Мария Грушко",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/mgrushko"
+    },
+    {
+        "Author_name": "Юлия Мискевич",
+        "Author_job": "Ночной линейный редактор",
+        "Author_url": "https://api.lenta.ru/parts/authors/miskevich"
+    },
+    {
+        "Author_name": "Екатерина Смирная",
+        "Author_job": "Корреспондент отдела оперативной информации",
+        "Author_url": "https://api.lenta.ru/parts/authors/eksmirnova"
+    },
+    {
+        "Author_name": "Ксения Назарова",
+        "Author_job": "Ночной редактор отдела оперативной информации",
+        "Author_url": "https://api.lenta.ru/parts/authors/knazarova"
+    },
+    {
+        "Author_name": "Юлия Ямпольская",
+        "Author_job": "Редактор отдела «Политика»",
+        "Author_url": "https://api.lenta.ru/parts/authors/yampolskaya"
+    },
+    {
+        "Author_name": "Антон Похиляк",
+        "Author_job": "Редактор отдела оперативной информации",
+        "Author_url": "https://api.lenta.ru/parts/authors/pokhilyak"
+    },
+    {
+        "Author_name": "Анжелика Бережная",
+        "Author_job": "Редактор",
+        "Author_url": "https://api.lenta.ru/parts/authors/aberezhnaya"
+    },
+    {
+        "Author_name": "Елизавета Наумова",
+        "Author_job": "Старший редактор отдела «Мир»",
+        "Author_url": "https://api.lenta.ru/parts/authors/enaumova"
+    },
+    {
+        "Author_name": "Олег Давыдов",
+        "Author_job": "Редактор отдела «Интернет и СМИ»",
+        "Author_url": "https://api.lenta.ru/parts/authors/olegdavydov"
+    },
+    {
+        "Author_name": "Евгения Наумова",
+        "Author_job": "Редактор отдела «Интернет и СМИ»",
+        "Author_url": "https://api.lenta.ru/parts/authors/enaymova"
+    },
+    {
+        "Author_name": "Денис Савосин",
+        "Author_job": "Редактор",
+        "Author_url": "https://api.lenta.ru/parts/authors/dsavosin"
+    },
+    {
+        "Author_name": "Асель Минбаева",
+        "Author_job": "Редактор",
+        "Author_url": "https://api.lenta.ru/parts/authors/aminbaeva"
+    },
+    {
+        "Author_name": "Вениамин Лыков",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/vlykov"
+    },
+    {
+        "Author_name": "Ксения Кривотулова",
+        "Author_job": "Руководитель отдела «Интернет и СМИ»",
+        "Author_url": "https://api.lenta.ru/parts/authors/kkrivotulova"
+    },
+    {
+        "Author_name": "Анастасия Астахова",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/nastyaastakhova"
+    },
+    {
+        "Author_name": "Денис Рузаев",
+        "Author_job": "Руководитель отдела «Культура»",
+        "Author_url": "https://api.lenta.ru/parts/authors/ruzaev"
+    },
+    {
+        "Author_name": "Илья Кролевский",
+        "Author_job": "Редактор отдела «Культура»",
+        "Author_url": "https://api.lenta.ru/parts/authors/ilyakrolevsky"
+    },
+    {
+        "Author_name": "Дениза Мацаева",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/matsaeva"
+    },
+    {
+        "Author_name": "Ярослав Забалуев",
+        "Author_job": "Редактор",
+        "Author_url": "https://api.lenta.ru/parts/authors/jaroslav_zabaluev"
+    },
+    {
+        "Author_name": "Евгений Шульгин",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/shulgin"
+    },
+    {
+        "Author_name": "Марина Погосян",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/mpogosyan"
+    },
+    {
+        "Author_name": "Майя Пономаренко",
+        "Author_job": "Редактор отдела «Ценности» ",
+        "Author_url": "https://api.lenta.ru/parts/authors/ponomarenko"
+    },
+    {
+        "Author_name": "Любовь Ширижик",
+        "Author_job": "Старший редактор отдела «Силовые структуры»",
+        "Author_url": "https://api.lenta.ru/parts/authors/shirizhik"
+    },
+    {
+        "Author_name": "Олег Парамонов",
+        "Author_job": "Редактор отдела «Из жизни»",
+        "Author_url": "https://api.lenta.ru/parts/authors/olegparamonov"
+    },
+    {
+        "Author_name": "Елизавета Новикова",
+        "Author_job": "Редактор отдела «Силовые структуры»",
+        "Author_url": "https://api.lenta.ru/parts/authors/elnovikova"
+    },
+    {
+        "Author_name": "Алия Шарафутдинова",
+        "Author_job": "Ночной редактор отдела оперативной информации",
+        "Author_url": "https://api.lenta.ru/parts/authors/sharafutdinova"
+    },
+    {
+        "Author_name": "Дарья Новичкова",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/dnovichkova"
+    },
+    {
+        "Author_name": "Варвара Родикова",
+        "Author_job": "Редактор отдела «Общество»",
+        "Author_url": "https://api.lenta.ru/parts/authors/rodikova"
+    },
+    {
+        "Author_name": "Евгения Куликова",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/e_kulikova"
+    },
+    {
+        "Author_name": "Валерий Розенберг",
+        "Author_job": "Редактор отдела «Общество»",
+        "Author_url": "https://api.lenta.ru/parts/authors/vrozenberg"
+    },
+    {
+        "Author_name": "Петр Каменченко",
+        "Author_job": "Специальный корреспондент «Ленты.ру»",
+        "Author_url": "https://api.lenta.ru/parts/authors/kamenchenko"
+    },
+    {
+        "Author_name": "Юлия Воробьева",
+        "Author_job": "Бильд-редактор «Ленты.ру»",
+        "Author_url": "https://api.lenta.ru/parts/authors/vorobyeva"
+    },
+    {
+        "Author_name": "Сергей Лютых",
+        "Author_job": "Специальный корреспондент «Ленты.ру»",
+        "Author_url": "https://api.lenta.ru/parts/authors/lyutykh"
+    },
+    {
+        "Author_name": "Александр Непогодин",
+        "Author_job": "Заместитель руководителя международной редакции",
+        "Author_url": "https://api.lenta.ru/parts/authors/a_nepogodin"
+    },
+    {
+        "Author_name": "Вера Владзиевская",
+        "Author_job": "Редактор отдела «Забота о себе»",
+        "Author_url": "https://api.lenta.ru/parts/authors/vladzievskaya"
+    },
+    {
+        "Author_name": "Наталья Обрядина",
+        "Author_job": "Редактор отдела «Забота о себе»",
+        "Author_url": "https://api.lenta.ru/parts/authors/obryadina"
+    },
+    {
+        "Author_name": "Александра Лисица",
+        "Author_job": "Редактор отдела «Забота о себе»",
+        "Author_url": "https://api.lenta.ru/parts/authors/fox"
+    },
+    {
+        "Author_name": "Виктория Немис",
+        "Author_job": "Старший корреспондент отдела оперативной информации",
+        "Author_url": "https://api.lenta.ru/parts/authors/nemis"
+    },
+    {
+        "Author_name": "Мария Винар",
+        "Author_job": "Редактор отдела «Ценности» ",
+        "Author_url": "https://api.lenta.ru/parts/authors/vinar"
+    },
+    {
+        "Author_name": "Айсель Эюбова",
+        "Author_job": "Редактор отдела «Ценности»",
+        "Author_url": "https://api.lenta.ru/parts/authors/eyubova"
+    },
+    {
+        "Author_name": "Дина Васильева",
+        "Author_job": "Руководитель отдела «Ценности»",
+        "Author_url": "https://api.lenta.ru/parts/authors/divasilieva"
+    },
+    {
+        "Author_name": "Андрей Ставицкий",
+        "Author_job": "Редактор отдела «Наука и техника»",
+        "Author_url": "https://api.lenta.ru/parts/authors/stavitskiy"
+    },
+    {
+        "Author_name": "Даниил Иринин",
+        "Author_job": "Редактор отдела «Наука и техника»",
+        "Author_url": "https://api.lenta.ru/parts/authors/irinin"
+    },
+    {
+        "Author_name": "Елена Апазиди",
+        "Author_job": "Редактор отдела «Наука и техника»",
+        "Author_url": "https://api.lenta.ru/parts/authors/apazidi"
+    },
+    {
+        "Author_name": "Александр Еникеев",
+        "Author_job": "Редактор отдела «Наука и техника»",
+        "Author_url": "https://api.lenta.ru/parts/authors/enikeev"
+    },
+    {
+        "Author_name": "Иван Потапов",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/ipotapov"
+    },
+    {
+        "Author_name": "Леонид Немов",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/nemov"
+    },
+    {
+        "Author_name": "Фариза Бацазова",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/fbatsazova"
+    },
+    {
+        "Author_name": "Валентина Процкова",
+        "Author_job": "Редактор",
+        "Author_url": "https://api.lenta.ru/parts/authors/vprotskova"
+    },
+    {
+        "Author_name": "Ксения Жарова",
+        "Author_job": "Редактор отдела «Путешествия»",
+        "Author_url": "https://api.lenta.ru/parts/authors/melnikova"
+    },
+    {
+        "Author_name": "Алиса Удовик",
+        "Author_job": "Редактор отдела «Из жизни»",
+        "Author_url": "https://api.lenta.ru/parts/authors/udovick"
+    },
+    {
+        "Author_name": "Евгения Черкасова",
+        "Author_job": "Редактор отдела «Из жизни»",
+        "Author_url": "https://api.lenta.ru/parts/authors/cherkasova"
+    },
+    {
+        "Author_name": "Мария Большакова",
+        "Author_job": "Стажёр",
+        "Author_url": "https://api.lenta.ru/parts/authors/bolshakova"
+    },
+    {
+        "Author_name": "Владимир Седов",
+        "Author_job": "Редактор отдела «Силовые структуры»",
+        "Author_url": "https://api.lenta.ru/parts/authors/vladimirsedov"
+    },
+    {
+        "Author_name": "Леонид Микуляк",
+        "Author_job": "Редактор отдела «Силовые структуры»",
+        "Author_url": "https://api.lenta.ru/parts/authors/mikulyak"
+    },
+    {
+        "Author_name": "Азамат Асланов",
+        "Author_job": "",
+        "Author_url": "https://api.lenta.ru/parts/authors/aslanov"
+    },
+    {
+        "Author_name": "Владимир Шарапов",
+        "Author_job": "Редактор отдела «Силовые структуры»",
+        "Author_url": "https://api.lenta.ru/parts/authors/sharapov"
+    },
+    {
+        "Author_name": "Игорь Надеждин",
+        "Author_job": "Специальный корреспондент отдела «Силовые структуры»",
+        "Author_url": "https://api.lenta.ru/parts/authors/igor_nadezdin"
+    }
+]
